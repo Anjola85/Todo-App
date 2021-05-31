@@ -1,0 +1,11 @@
+body {
+  background-color: lavender;
+}
+
+#mybtn {
+  color: white;
+  background-color: rgb(153, 0, 255);
+  border: 3px solid orange;
+  position: absolute;
+  left: 90%;
+}
